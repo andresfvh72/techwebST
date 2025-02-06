@@ -4,15 +4,15 @@ import plotly.express as px
 
 # Configuración de la página
 st.set_page_config(
-    page_title="TechNova Solutions",
+    page_title="TSS Trouble Shooting Services",
     page_icon="🚀",
     layout="wide"
 )
 
 # Título y descripción de la empresa
-st.title("🚀 TechNova Solutions")
+st.title("🚀 Trouble Shooting Services")
 st.markdown("""
-**TechNova Solutions** es una empresa líder en tecnología innovadora que ofrece soluciones personalizadas 
+**TSS Trouble Shooting Services** es una empresa líder en tecnología innovadora que ofrece soluciones personalizadas 
 para mejorar la eficiencia y competitividad de tu negocio. Desde desarrollo de software hasta inteligencia 
 artificial, estamos comprometidos con el éxito de nuestros clientes.
 """)
@@ -67,5 +67,5 @@ with st.form("contact_form"):
 # Footer
 st.markdown("---")
 st.markdown("""
-© 2023 TechNova Solutions. Todos los derechos reservados.
+© 2023 Trouble Shooting Services. Todos los derechos reservados.
 """)
