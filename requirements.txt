@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+Para que se ejecute Plotly
+#
+###### Requirements with Version Specifiers ######
+#   See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+# Instalar las dependencias pip install -r requirements.txt
+pip install plotly            # Pide instalar plotly
